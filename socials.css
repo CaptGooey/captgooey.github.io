@@ -1,0 +1,68 @@
+@import url('http://fonts.cdnfonts.com/css/common-pixel');
+
+body {
+    background: #212121;
+    padding: 0;
+    margin: 0;
+    align-items: center;
+}
+
+.container {
+    width: 500px;
+    height: 200px;
+    background: #363636;
+    border-style: outset;
+}
+
+p {
+    color: aliceblue;
+    font-family: 'Common Pixel', sans-serif;
+}
+
+a {
+    color: aliceblue;
+    font-family: 'Common Pixel', sans-serif;
+}   
+
+.nav {
+    height: 50px;
+    width: 1360px;
+    background: #363636;
+    border-style: outset;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    list-style: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 10px 20px;
+
+}
+
+.nav ul li a:hover {
+    color: cornflowerblue;
+}
+
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+
+.my-4 {
+margin-top: 1.5rem!important;
+margin-bottom: 1.5rem!important;
+}
+
+span {
+    font-family: 'Common Pixel', sans-serif;
+    color: aliceblue;
+}
