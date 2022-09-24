@@ -70,4 +70,5 @@ span {
 iframe {
     border-size: 10px;
     border-style: outset;
+    padding-left: 1.5%;
 }
